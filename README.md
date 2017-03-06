@@ -1,7 +1,8 @@
-# gittest
-<<<<<<< HEAD
-=======
 
+<<<<<<< HEAD
+#My Cool Portfolio
+=======
+#My Portfolio
 # skills
 
 Ruby
